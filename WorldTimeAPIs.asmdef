@@ -1,3 +1,17 @@
 {
-	"name": "WorldTimeAPIs"
+    "name": "WorldTimeAPIs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b8f042c832f012045a56d8a5631e4f86",
+        "GUID:e2c06f66710174805a43140fa6f80959"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
